@@ -15,6 +15,25 @@
         "code"
       ]
     }
+    
+     {
+      "login": "goelayush89",
+      "name": "Ayush Goel",
+      "avatar_url": "https://avatars.githubusercontent.com/u/90969119?v=4",
+      "profile": "https://github.com/goelayush89",
+      "contributions": [
+        "code"
+      ]
+    }
+      {
+      "login": "darsh462",
+      "name": "DarshnilSinh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/90969119?v=4",
+      "profile": "https://github.com/darsh462",
+      "contributions": [
+        "code"
+      ]
+    }
   ],
   "contributorsPerLine": 7,
   "skipCi": true,
