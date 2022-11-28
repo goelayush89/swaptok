@@ -1,0 +1,27 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "commitConvention": "angular",
+  "contributors": [
+    {
+      "login": "Madhur2002",
+      "name": "Madhur Jain",
+      "avatar_url": "https://avatars.githubusercontent.com/u/93668517?v=4",
+      "profile": "https://github.com/Madhur2002",
+      "contributions": [
+        "infra",
+        "test",
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "skipCi": true,
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "projectName": "swaptok",
+  "projectOwner": "goelayush89"
+}
