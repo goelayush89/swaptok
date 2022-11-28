@@ -13,7 +13,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tbody>
     <tr>
-      <td align="center"><a href="https://github.com/darsh462"><img src="https://avatars.githubusercontent.com/u/90900429?v=4?s=100" width="100px;" alt="darsh462"/><br /><sub><b>darsh462</b></sub></a><br /><a href="https://github.com/goelayush89/swaptok/commits?author=darsh462" title="Code">💻</a></td>
+      <td align="center"><a href="https://github.com/darsh462"><img src="https://avatars.githubusercontent.com/u/90900429?v=4?s=100" width="100px;" alt="darsh462"/><br /><sub><b>darsh462</b></sub></a><br /><a href="https://github.com/goelayush89/swaptok/commits?author=darsh462" title="Code">💻</a> <a href="#infra-darsh462" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/goelayush89/swaptok/commits?author=darsh462" title="Tests">⚠️</a></td>
     </tr>
   </tbody>
 </table>
