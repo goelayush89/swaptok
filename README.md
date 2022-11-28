@@ -13,7 +13,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tbody>
     <tr>
-      <td align="center"><a href="https://github.com/amanks2000"><img src="https://avatars.githubusercontent.com/u/90969119?v=4?s=100" width="100px;" alt="Aman Kumar Singh"/><br /><sub><b>Aman Kumar Singh</b></sub></a><br /><a href="https://github.com/goelayush89/swaptok/commits?author=amanks2000" title="Code">💻</a></td>
+      <td align="center"><a href="https://github.com/amanks2000"><img src="https://avatars.githubusercontent.com/u/90969119?v=4?s=100" width="100px;" alt="Aman Kumar Singh"/><br /><sub><b>Aman Kumar Singh</b></sub></a><br /><a href="https://github.com/goelayush89/swaptok/commits?author=amanks2000" title="Code">💻</a> <a href="#infra-amanks2000" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/goelayush89/swaptok/commits?author=amanks2000" title="Tests">⚠️</a></td>
     </tr>
   </tbody>
 </table>
