@@ -13,7 +13,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tbody>
     <tr>
-      <td align="center"><a href="https://github.com/goelayush89"><img src="https://avatars.githubusercontent.com/u/104623090?v=4?s=100" width="100px;" alt="Ayush Goel"/><br /><sub><b>Ayush Goel</b></sub></a><br /><a href="https://github.com/goelayush89/swaptok/commits?author=goelayush89" title="Code">💻</a> <a href="#a11y-goelayush89" title="Accessibility">️️️️♿️</a></td>
+      <td align="center"><a href="https://github.com/goelayush89"><img src="https://avatars.githubusercontent.com/u/104623090?v=4?s=100" width="100px;" alt="Ayush Goel"/><br /><sub><b>Ayush Goel</b></sub></a><br /><a href="https://github.com/goelayush89/swaptok/commits?author=goelayush89" title="Code">💻</a> <a href="#a11y-goelayush89" title="Accessibility">️️️️♿️</a> <a href="#infra-goelayush89" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a></td>
     </tr>
   </tbody>
 </table>
